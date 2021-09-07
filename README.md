@@ -43,8 +43,9 @@ $ python(3) -m sᴇᴍᴘᴀᴋ-ᴍᴜsɪᴄ
 
 ### SUDO USER:
 ##
-[![MS-KU](https://t.me:Mimiksusuku_bot)]
-##
+<a href="https://t.me/Mimiksusuku_bot"><img src="https://img.shields.io/badge/-MS%20Ku-purple.svg?style=for-the-badge&logo=Telegram"></a>
+
+
 
 
 ### Commands for Group 🛠
