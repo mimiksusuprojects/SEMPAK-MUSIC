@@ -25,14 +25,20 @@ $ npm i -g npm
 $ python(3) -m sᴇᴍᴘᴀᴋ-ᴍᴜsɪᴄ
 ```
 
-### 💜 Heroku
+### JOIN DULU TOT!!:
+
+<a href="https://t.me/MSstory_ch"><img src="https://img.shields.io/badge/Channel%20MS%20STORY-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/MS_Aliansi"><img src="https://img.shields.io/badge/Join-MIMIK%20SUSU-purple.svg?style=for-the-badge&logo=Telegram"></a>
+
 
 * **Klik disini:**
 <a href="https://heroku.com/deploy?template=https://github.com/mimiksusuprojects/SEMPAK-MUSIC.git"><img src="https://img.shields.io/badge/𝕯𝖊𝖕𝖑𝖔𝖞%20𝕾𝖊𝖒𝖕𝖆𝖐-𝖒𝖚𝖘𝖎𝖈%20𝖉𝖎%20𝕳𝖊𝖗𝖔𝖐𝖚-rainbow?style=flat&logo=Heroku" width="325" height="50.100" />
 
 
-Get pyrogram (p)  `SESSION` from here:
-[![Run on Repl.it](https://repl.it/badge/github/vckyou/PyrogramString)](https://repl.it/@vckyou/PyrogramString?lite=1&outputonly=1)
+### AMBIL STRING DI BAWAH INI:
+##
+[![RAM-UBOT-STRING](https://replit.com/badge/github/@ramadhani892/RAM-UBOT)](https://replit.com/@ramadhani892/RAM-UBOT-STRING)
+##
 
 ### Commands for Group 🛠
 #### For all in group
