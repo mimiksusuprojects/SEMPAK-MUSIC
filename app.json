@@ -2,6 +2,7 @@
   "name": "SEMPAK-MUSIC",
   "description": "Open-Source bot to play songs in your Telegram's Group Voice Chat. Powered by PyTgCalls.",
   "logo":"https://telegra.ph/file/ed02bb332dcaa8ee7a064.png",
+
   "logo":"https://telegra.ph/file/d23d1d072f2fd90a2424a.png",
   "keywords": ["music", "voicechat", "telegram"],
   "repository": "https://github.com/mimiksusuprojects/SEMPAK-MUSIC",
@@ -71,7 +72,17 @@
     "DURATION_LIMIT": {
       "description": "Batas durasi audio maksimal untuk download (minutes).",
       "required": true,
-      "value": "15"
+      "value": "400"
+    },
+    "SUPPORT_GROUP":{
+      "description": "Skip jika tidak punya"
+      "required" false,
+      "value": Ms_Aliansi"
+    },
+     "UPDATE_CHANEL":{
+       "description": "Skip jika tidak punya"
+       "required": false,
+       "value": "MSstory_ch"
     }
   }
 }
