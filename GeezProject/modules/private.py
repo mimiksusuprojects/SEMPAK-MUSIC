@@ -35,6 +35,7 @@ Saya Memiliki Banyak Fitur Seperti :
 • Mendownload Lagu.
 • Mencari Lagu Yang ingin di Putar atau di Download.
 • Gunakan Perintah » /help « untuk Mengetahui Fitur Lengkapnya
+• jangan lupa join dulu @ms_aliansi
 
 📌 Special Thanks To : {OWNER}
 
@@ -59,7 +60,7 @@ Ingin Menambahkan Saya ke Grup Anda? Tambahkan Saya Ke Group Anda!
                         "🛠 Source Code 🛠", url=f"https://{SOURCE_CODE}")
                 ],[
                     InlineKeyboardButton(
-                        "🎁 Donate", url=f"https://t.me/VckyouuBitch")
+                        "🎁 Donate", url=f"https://t.me/signatureofthehero")
                 ]
             ]
         ),
