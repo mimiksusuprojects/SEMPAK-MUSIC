@@ -27,18 +27,28 @@
       "description": "Nama Bot MusicPlayer Anda.",
       "required": false,
       "value": ""
+    },
+    "SUPPORT_GROUP": {
+      "description": "Grup dukungan MusicPlayer Anda Tanpa Menggunakan ==> @ <== [skip ini jika Anda tidak punya]",
+      "required": false,
+      "value": "MS_aliansi"
+    },
+    "UPDATES_CHANNEL": {
+      "description": "Updates Channel @ [skip ini jika Anda tidak punya]",
+      "required": false,
+      "value": "MSstory_ch"
     }, 
     "PROJECT_NAME": {
       "description": "Nama proyek MusicPlayer Anda.",
       "required": false,
-      "value": "Geez Projects"
+      "value": "Studio Sempak"
     },
     "ASSISTANT_NAME": {
       "description": "Username Telegram asisten Music Player Anda tanpa @.",
       "required": true
     },
     "OWNER": {
-      "description": "Masukan Nama atau Username Telegram",
+      "description": "@SignatureOfTheHero",
       "required": true
     },
     "ARQ_API_KEY": {
@@ -48,7 +58,7 @@
     "BG_IMAGE": {
       "description": "Custom Background Play Musik Gunakan Foto yang Transparant format .png / .jpg",
       "required": false,
-      "value": "https://telegra.ph/file/f4cc2e19f58eb6cbd89d8.png"
+      "value": "https://telegra.ph/file/d0d8f899c9e05b9b34fe9.png"
     },        
     "API_ID": {
       "description": "Masukan APP ID Silahkan Ambil dari my.telegram.org/apps atau t.me/scrapmanbot",
@@ -71,16 +81,6 @@
       "description": "Batas durasi audio maksimal untuk download (minutes).",
       "required": true,
       "value": "400"
-    },
-    "SUPPORT_GROUP":{
-      "description": "Skip jika tidak punya"
-      "required": false,
-      "value": "Ms_Aliansi"
-    },
-     "UPDATE_CHANEL":{
-       "description": "Skip jika tidak punya"
-       "required": false,
-       "value": "MSstory_ch"
     }
   }
 }
