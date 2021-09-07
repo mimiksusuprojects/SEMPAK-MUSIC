@@ -40,6 +40,13 @@ $ python(3) -m sᴇᴍᴘᴀᴋ-ᴍᴜsɪᴄ
 [![RAM-UBOT-STRING](https://replit.com/badge/github/@ramadhani892/RAM-UBOT)](https://replit.com/@ramadhani892/RAM-UBOT-STRING)
 ##
 
+
+### SUDO USER:
+##
+[![MS-KU](https://t.me:Mimiksusuku_bot)]
+##
+
+
 ### Commands for Group 🛠
 #### For all in group
 
