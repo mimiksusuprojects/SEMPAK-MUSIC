@@ -48,8 +48,9 @@
       "required": true
     },
     "OWNER": {
-      "description": "@SignatureOfTheHero",
-      "required": true
+      "description": "nama owner",
+      "required": true,
+      "value": "@SignatureOfTheHero"
     },
     "ARQ_API_KEY": {
       "description": "Ambil api dari bot telegram » t.me/ARQRobot atau @ARQRobot",
