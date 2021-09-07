@@ -39,7 +39,7 @@ $ python(3) -m sᴇᴍᴘᴀᴋ-ᴍᴜsɪᴄ
 
 ### AMBIL STRING DI BAWAH INI:
 ##
-[![RAM-UBOT-STRING](https://replit.com/badge/github/@mimiksusuprojects/SEMPAK-BOT)](https://replit.com/mimiksusuprojec/SEMPAK-STRING)
+[![RAM-UBOT-STRING](https://replit.com/badge/github/@mimiksusuprojec/SEMPAK-STRING](https://replit.com/mimiksusuprojec/SEMPAK-STRING)
 ##
 
 
