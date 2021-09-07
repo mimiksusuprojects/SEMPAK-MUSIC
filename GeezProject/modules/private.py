@@ -99,4 +99,82 @@ def map(pos):
         url = f"https://t.me/{SUPPORT_GROUP}"
         button = [
             [InlineKeyboardButton("☠︎︎ Tambahkan saya ke Grup Anda ☠︎︎", url=f"https://t.me/{BOT_USERNAME}?startgroup=true")],
-            [InlineKeyboardButton(
+            [InlineKeyboardButton(text = '☠︎︎ Channel Updates', url=f"https://t.me/{UPDATES_CHANNEL}"),
+             InlineKeyboardButton(text = '☠︎︎ Group Support', url=f"https://t.me/{SUPPORT_GROUP}")],
+            [InlineKeyboardButton(text = '☠︎︎ SEMPAK MUSIC ☠︎︎', url=f"https://github.com/mimiksusuprojects/SEMPAK-MUSIC.git")],
+            [InlineKeyboardButton(text = '«', callback_data = f"help+{pos-1}")]
+        ]
+    else:
+        button = [
+            [
+                InlineKeyboardButton(text = '«', callback_data = f"help+{pos-1}"),
+                InlineKeyboardButton(text = '»', callback_data = f"help+{pos+1}")
+            ],
+        ]
+    return button
+
+
+@Client.on_message(
+    filters.command("start")
+    & filters.group
+    & ~ filters.edited
+)
+async def start(client: Client, message: Message):
+    await message.reply_text(
+        "☠︎︎ **Apakah Anda ingin mencari Link YouTube?**",
+        reply_markup=InlineKeyboardMarkup(
+            [   
+                [    
+                    InlineKeyboardButton(
+                        "✅ Ya", switch_inline_query_current_chat=""
+                    ),
+                    InlineKeyboardButton(
+                        "❌ Tidak ", callback_data="close"
+                    )
+                ]
+            ]
+        )
+    )
+
+
+@Client.on_message(
+    filters.command("help")
+    & filters.group
+    & ~ filters.edited
+)
+async def help(client: Client, message: Message):
+    await message.reply_text(
+        """**Klik Tombol dibawah untuk Melihat Cara Menggunakan Bot**""",
+        reply_markup=InlineKeyboardMarkup(
+            [
+                [
+                    InlineKeyboardButton(
+                        "📜 Cara Menggunakan BOT 📜", url="https://t.me/Vckyouuu/32"
+                    )
+                ]
+            ]
+        ),
+    )  
+
+
+@Client.on_message(
+    filters.command("reload")
+    & filters.group
+    & ~ filters.edited
+)
+async def reload(client: Client, message: Message):
+    await message.reply_text("""☠︎︎ Bot **berhasil dimulai ulang!**\n\n• **Daftar admin** telah **diperbarui**""",
+      reply_markup=InlineKeyboardMarkup(
+            [
+                [
+                    InlineKeyboardButton(
+                        "Group Support", url=f"https://t.me/GeezSupportGroup"
+                    ),
+                    InlineKeyboardButton(
+                        "Created By", url=f"https://t.me/VckyouuBitch"
+                    )
+                ]
+            ]
+        )
+   )
+
