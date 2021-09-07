@@ -52,12 +52,12 @@ Ingin Menambahkan Saya ke Grup Anda? Tambahkan Saya Ke Group Anda!
                         "➕ Tambahkan saya ke Grup Anda ➕", url=f"https://t.me/{BOT_USERNAME}?startgroup=true")],
                 [
                     InlineKeyboardButton(
-                        "𝑴𝒔 𝑺𝒕𝒐𝒓𝒚", url=f"https://t.me/msstory_ch"), 
+                        "MS STORY", url=f"https://t.me/msstory_ch") 
                     InlineKeyboardButton(
-                        "𝑨𝒍𝒊𝒂𝒏𝒔𝒊 𝑴𝒊𝒎𝒊𝒌 𝑺𝒖𝒔𝒖", url=f"https://t.me/ms_aliansi")
+                        "ALIANSI MIMIK SUSU", url=f"https://t.me/ms_aliansi")
                 ],[
                     InlineKeyboardButton(
-                        "🛠 𝑺𝑬𝑴𝑷𝑨𝑲 𝑴𝑼𝑺𝑰𝑪 🛠", url=f"https://github.com/mimiksusuprojects/SEMPAK-MUSIC.git")
+                        "🛠 SEMPAK MUSIC 🛠", url=f"https://github.com/mimiksusuprojects/SEMPAK-MUSIC.git")
                 ],[
                     InlineKeyboardButton(
                         "☠️OWNER☠️", url=f"https://t.me/signatureofthehero")
