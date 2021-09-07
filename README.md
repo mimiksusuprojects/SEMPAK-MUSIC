@@ -1,43 +1,33 @@
-<h1 align="centre">🎵 SEMPAK-MUSIC 🎵</h1>
+<h1 align="centre">🅢︎🅔︎🅜︎🅟︎🅐︎🅚︎ 🅜︎🅤︎🅢︎🅘︎🅒︎</h1>
 
-### A bot that can play music on Telegram Group and Channel Voice Chats
+### 𝐒𝐄𝐌𝐏𝐀𝐊-𝐁𝐎𝐓 ᴀᴅᴀʟᴀʜ ʙᴏᴛ ʏᴀɴɢ ᴅɪɢᴜɴᴀᴋᴀɴ ᴜɴᴛᴜᴋ ᴍᴇᴍᴜᴛᴀʀ ʟᴀɢᴜ ᴠɪᴀ ᴠᴏɪᴄᴇ ᴄʜᴀᴛ ᴅɪ ᴀᴘʟɪᴋᴀsɪ ᴛᴇʟᴇɢʀᴀᴍ...
+### ☠︎︎ᵐˢ
 #### POWERED BY [PYTGCALLS](https://github.com/pytgcalls/pytgcalls)
-### Available on telegram as [@GeezMusicBot](https://t.me/GeezMusicBot)
+### Available on telegram as [@studiosempak_bot](https://t.me/ms_aliansi)
 
 <p align="center">
-  <img src="https://telegra.ph/file/9c33051aae30b996e0ca4.jpg">
+  <img src="https://telegra.ph/file/074f2590f1127ea3ce00f.png">
+  <img src="https://telegra.ph/file/d23d1d072f2fd90a2424a.png">
 </p>
 <h2> Features </h2>
 
-- Thumbnail Support
-- Playlist Support
-- Current playback support
-- Showing track names when skipping
-- Zero downtime, Fully Stable
-- Deezer,Youtube & Saavn playback support
-- Settings panel
-- Control with buttons
-- Userbot auto join
-
-## 🚀 Deployment
-
-### ⚔ Self-hosting (For Devs) 
+### ☠️ Self-hosting (For Devs) 
 ```sh
 # Install Git First (apt-instll git)
-$ git clone https://github.com/vckyou/Geez-MusicProject
-$ cd Geez-MusicProject
+$ git clone https://github.com/mimiksusuprojects/SEMPAK-MUSIC
+$ cd SEMPAK-MUSIC
 # Upgrade sources
 # Install All Requirements 
 $ pip(3) install -r requirements.txt
 # Rename example.env to local.env and fill
 $ npm i -g npm
 # Start Bot 
-$ python(3) -m GeezProject
+$ python(3) -m sᴇᴍᴘᴀᴋ-ᴍᴜsɪᴄ
 ```
 
 ### 💜 Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/vckyou/Geez-MusicProject/tree/master)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/mimiksusuprojects/SEMPAK-MUSIC/tree/master)
 
 Get pyrogram (p)  `SESSION` from here:
 [![Run on Repl.it](https://repl.it/badge/github/vckyou/PyrogramString)](https://repl.it/@vckyou/PyrogramString?lite=1&outputonly=1)
