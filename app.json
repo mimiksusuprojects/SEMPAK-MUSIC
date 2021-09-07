@@ -27,16 +27,6 @@
       "description": "Nama Bot MusicPlayer Anda.",
       "required": false,
       "value": ""
-    },
-    "SUPPORT_GROUP": {
-      "description": "Grup dukungan MusicPlayer Anda Tanpa Menggunakan ==> @ <== [skip ini jika Anda tidak punya]",
-      "required": false,
-      "value": "MS_aliansi"
-    },
-    "UPDATES_CHANNEL": {
-      "description": "Updates Channel @ [skip ini jika Anda tidak punya]",
-      "required": false,
-      "value": "MSstory_ch"
     }, 
     "PROJECT_NAME": {
       "description": "Nama proyek MusicPlayer Anda.",
