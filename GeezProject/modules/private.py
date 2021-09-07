@@ -50,15 +50,15 @@ Ingin Menambahkan Saya ke Grup Anda? Tambahkan Saya Ke Group Anda!
                         "➕ Tambahkan saya ke Grup Anda ➕", url=f"https://t.me/{BOT_USERNAME}?startgroup=true")],
                 [
                     InlineKeyboardButton(
-                        "☠️MS STORY☠️", url=f"https://t.me/msstory_ch") 
+                        "☠︎︎MS STORY☠︎︎", url=f"https://t.me/msstory_ch") 
                     InlineKeyboardButton(
-                        "☠️ALIANSI MIMIK SUSU☠️", url=f"https://t.me/ms_aliansi")
+                        "☠︎︎ALIANSI MIMIK SUSU☠︎︎", url=f"https://t.me/ms_aliansi")
                 ],[
                     InlineKeyboardButton(
                         "🛠 SEMPAK MUSIC 🛠", url=f"https://github.com/mimiksusuprojects/SEMPAK-MUSIC.git")
                 ],[
                     InlineKeyboardButton(
-                        "☠️OWNER☠️", url=f"https://t.me/signatureofthehero")
+                        "☠︎︎OWNER☠︎︎", url=f"https://t.me/signatureofthehero")
                 ]
             ]
         ),
@@ -98,8 +98,8 @@ def map(pos):
         url = f"https://t.me/ms_aliansi"
         button = [
             [InlineKeyboardButton("➕ Tambahkan saya ke Grup Anda ➕", url=f"https://t.me/{BOT_USERNAME}?startgroup=true")],
-            [InlineKeyboardButton(text = '☠️ Ms Story ☠️", url=f"https://t.me/msstory_ch"), 
-             InlineKeyboardButton(text = '☠️ Mimik Susu Aliansi ☠️", url=f"https://t.me/ms_aliansi")],
+            [InlineKeyboardButton(text = '☠︎︎ Ms Story ☠︎︎", url=f"https://t.me/msstory_ch"), 
+             InlineKeyboardButton(text = '☠︎︎ Mimik Susu Aliansi ☠︎︎", url=f"https://t.me/ms_aliansi")],
             [InlineKeyboardButton(text = '🛠 Source Code 🛠', url=f"https://{SOURCE_CODE}")],
             [InlineKeyboardButton(text = '«', callback_data = f"help+{pos-1}")]
         ]
