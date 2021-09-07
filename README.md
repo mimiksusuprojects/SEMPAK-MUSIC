@@ -27,7 +27,9 @@ $ python(3) -m sᴇᴍᴘᴀᴋ-ᴍᴜsɪᴄ
 
 ### 💜 Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/mimiksusuprojects/SEMPAK-MUSIC/tree/master)
+* **Klik disini:**
+<a href="https://heroku.com/deploy?template=https://github.com/mimiksusuprojects/SEMPAK-MUSIC.git"><img src="https://img.shields.io/badge/𝕯𝖊𝖕𝖑𝖔𝖞%20𝕾𝖊𝖒𝖕𝖆𝖐-𝖒𝖚𝖘𝖎𝖈%20𝖉𝖎%20𝕳𝖊𝖗𝖔𝖐𝖚-rainbow?style=flat&logo=Heroku" width="325" height="50.100" />
+
 
 Get pyrogram (p)  `SESSION` from here:
 [![Run on Repl.it](https://repl.it/badge/github/vckyou/PyrogramString)](https://repl.it/@vckyou/PyrogramString?lite=1&outputonly=1)
