@@ -74,8 +74,8 @@
     },
     "SUPPORT_GROUP":{
       "description": "Skip jika tidak punya"
-      "required" false,
-      "value": Ms_Aliansi"
+      "required": false,
+      "value": "Ms_Aliansi"
     },
      "UPDATE_CHANEL":{
        "description": "Skip jika tidak punya"
