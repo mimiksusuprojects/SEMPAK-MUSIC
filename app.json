@@ -2,8 +2,6 @@
   "name": "SEMPAK-MUSIC",
   "description": "Open-Source bot to play songs in your Telegram's Group Voice Chat. Powered by PyTgCalls.",
   "logo":"https://telegra.ph/file/ed02bb332dcaa8ee7a064.png",
-
-  "logo":"https://telegra.ph/file/d23d1d072f2fd90a2424a.png",
   "keywords": ["music", "voicechat", "telegram"],
   "repository": "https://github.com/mimiksusuprojects/SEMPAK-MUSIC",
   "stack": "container",
