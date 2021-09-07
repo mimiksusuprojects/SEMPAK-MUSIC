@@ -51,9 +51,9 @@ Ingin Menambahkan Saya ke Grup Anda? Tambahkan Saya Ke Group Anda!
                         "☠︎︎ Tambahkan saya ke Grup Anda ☠︎︎", url=f"https://t.me/{BOT_USERNAME}?startgroup=true")],
                 [
                     InlineKeyboardButton(
-                        "☠︎︎ Channel Updates", url=f"https://t.me/{UPDATES_CHANNEL}"), 
+                        "☠︎︎ Channel Updates", url=f"https://t.me/msstory_ch"), 
                     InlineKeyboardButton(
-                        "☠︎︎ Group Support", url=f"https://t.me/{SUPPORT_GROUP}")
+                        "☠︎︎ Group Support", url=f"https://t.me/ms_aliansi")
                 ],[
                     InlineKeyboardButton(
                         "🛠 Source Code 🛠", url=f"https://{SOURCE_CODE}")
