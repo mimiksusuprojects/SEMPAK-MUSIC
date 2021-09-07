@@ -28,16 +28,6 @@
       "description": "Nama Bot MusicPlayer Anda.",
       "required": false,
       "value": ""
-    },
-    "SUPPORT_GROUP": {
-      "description": "Grup dukungan MusicPlayer Anda Tanpa Menggunakan ==> @ <== [skip ini jika Anda tidak punya]",
-      "required": false,
-      "value": "ms_aliansi"
-    },
-    "UPDATES_CHANNEL": {
-      "description": "Updates Channel @ [skip ini jika Anda tidak punya]",
-      "required": false,
-      "value": "msstory_ch"
     }, 
     "PROJECT_NAME": {
       "description": "Nama proyek MusicPlayer Anda.",
@@ -59,7 +49,7 @@
     "BG_IMAGE": {
       "description": "Custom Background Play Musik Gunakan Foto yang Transparant format .png / .jpg",
       "required": false,
-      "value": "https://telegra.ph/file/d23d1d072f2fd90a2424a.png"
+      "value": "https://telegra.ph/file/f4cc2e19f58eb6cbd89d8.png"
     },        
     "API_ID": {
       "description": "Masukan APP ID Silahkan Ambil dari my.telegram.org/apps atau t.me/scrapmanbot",
