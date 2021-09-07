@@ -37,7 +37,7 @@ Saya Memiliki Banyak Fitur Seperti :
 • Gunakan Perintah » /help « untuk Mengetahui Fitur Lengkapnya
 • jangan lupa join dulu @ms_aliansi
 
-☠︎︎ Special Thanks To : sᴇᴍᴘᴀᴋ ʙᴇsɪ⍟ᵐˢ
+☠︎︎ Special Thanks To : {OWNER}
 
 Ingin Menambahkan Saya ke Grup Anda? Tambahkan Saya Ke Group Anda!
 </b>""",
@@ -52,9 +52,9 @@ Ingin Menambahkan Saya ke Grup Anda? Tambahkan Saya Ke Group Anda!
                         "➕ Tambahkan saya ke Grup Anda ➕", url=f"https://t.me/{BOT_USERNAME}?startgroup=true")],
                 [
                     InlineKeyboardButton(
-                        "MS STORY", url=f"https://t.me/msstory_ch") 
+                        "☠️MS STORY☠️", url=f"https://t.me/msstory_ch") 
                     InlineKeyboardButton(
-                        "ALIANSI MIMIK SUSU", url=f"https://t.me/ms_aliansi")
+                        "☠️ALIANSI MIMIK SUSU☠️", url=f"https://t.me/ms_aliansi")
                 ],[
                     InlineKeyboardButton(
                         "🛠 SEMPAK MUSIC 🛠", url=f"https://github.com/mimiksusuprojects/SEMPAK-MUSIC.git")
@@ -97,12 +97,12 @@ def map(pos):
             [InlineKeyboardButton(text = 'Next »', callback_data = "help+2")]
         ]
     elif(pos==len(tr.HELP_MSG)-1):
-        url = f"https://t.me/{SUPPORT_GROUP}"
+        url = f"https://t.me/ms_aliansi"
         button = [
             [InlineKeyboardButton("➕ Tambahkan saya ke Grup Anda ➕", url=f"https://t.me/{BOT_USERNAME}?startgroup=true")],
-            [InlineKeyboardButton(text = '𝑴𝒔 𝑺𝒕𝒐𝒓𝒚", url=f"https://t.me/msstory_ch")], 
-             InlineKeyboardButton(text = 𝑨𝒍𝒊𝒂𝒏𝒔𝒊 𝑴𝒊𝒎𝒊𝒌 𝑺𝒖𝒔𝒖", url=f"https://t.me/ms_aliansi")],
-            [InlineKeyboardButton(text = '🛠 𝑺𝒐𝒖𝒓𝒄𝒆 𝑪𝒐𝒅𝒆 🛠', url=f"https://{SOURCE_CODE}")],
+            [InlineKeyboardButton(text = '☠️ Ms Story ☠️", url=f"https://t.me/msstory_ch"), 
+             InlineKeyboardButton(text = '☠️ Mimik Susu Aliansi ☠️", url=f"https://t.me/ms_aliansi")],
+            [InlineKeyboardButton(text = '🛠 Source Code 🛠', url=f"https://{SOURCE_CODE}")],
             [InlineKeyboardButton(text = '«', callback_data = f"help+{pos-1}")]
         ]
     else:
@@ -122,7 +122,7 @@ def map(pos):
 )
 async def start(client: Client, message: Message):
     await message.reply_text(
-        "💁🏻‍♂️ **Apakah Anda ingin mencari Link YouTube?**",
+        "☠️ **Apakah Anda ingin mencari Link YouTube?**",
         reply_markup=InlineKeyboardMarkup(
             [   
                 [    
@@ -164,7 +164,7 @@ async def help(client: Client, message: Message):
     & ~ filters.edited
 )
 async def reload(client: Client, message: Message):
-    await message.reply_text("""✅ Bot **berhasil dimulai ulang!**\n\n• **Daftar admin** telah **diperbarui**""",
+    await message.reply_text("""☠️ Bot **berhasil dimulai ulang!**\n\n• **Daftar admin** telah **diperbarui**""",
       reply_markup=InlineKeyboardMarkup(
             [
                 [
