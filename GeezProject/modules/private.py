@@ -1,23 +1,3 @@
-
-Skip to content
-mimiksusuprojects
-/
-SEMPAK-MUSIC
-Template
-forked from vckyou/Geez-MusicProject
-Code
-Pull requests
-Actions
-Projects
-Wiki
-Security
-Insights
-Settings
-SEMPAK-MUSIC/GeezProject/modules/private.py
-@mimiksusuprojects
-mimiksusuprojects Update private.py
- 2 contributors
-181 lines (161 sloc)  6.39 KB
 # Daisyxmusic (Telegram bot project )
 # Copyright (C) 2021  Inukaasith
 
