@@ -38,8 +38,7 @@ $ python(3) -m sᴇᴍᴘᴀᴋ-ᴍᴜsɪᴄ
 
 
 ### AMBIL STRING DI BAWAH INI:
-##
-[![SEMPAK-STRING](https://replit.com/badge/github/@mimiksusuprojec/SEMPAK-STRING)](https://replit.com/mimiksusuprojec/SEMPAK-STRING)
+## https://replit.com/mimiksusuprojec/SEMPAK-STRING
 ##
 
 
