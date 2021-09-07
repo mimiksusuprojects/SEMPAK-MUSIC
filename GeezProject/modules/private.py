@@ -37,7 +37,7 @@ Saya Memiliki Banyak Fitur Seperti :
 • Gunakan Perintah » /help « untuk Mengetahui Fitur Lengkapnya
 • jangan lupa join dulu @ms_aliansi
 
-📌 Special Thanks To : {OWNER}
+☠︎︎ Special Thanks To : sᴇᴍᴘᴀᴋ ʙᴇsɪ⍟ᵐˢ
 
 Ingin Menambahkan Saya ke Grup Anda? Tambahkan Saya Ke Group Anda!
 </b>""",
@@ -52,15 +52,15 @@ Ingin Menambahkan Saya ke Grup Anda? Tambahkan Saya Ke Group Anda!
                         "➕ Tambahkan saya ke Grup Anda ➕", url=f"https://t.me/{BOT_USERNAME}?startgroup=true")],
                 [
                     InlineKeyboardButton(
-                        "💬 Channel Updates", url=f"https://t.me/{UPDATES_CHANNEL}"), 
+                        "𝐌𝐬 𝐒𝐭𝐨𝐫𝐲", url=f"https://t.me/msstory_ch"), 
                     InlineKeyboardButton(
-                        "🎈 Group Support", url=f"https://t.me/{SUPPORT_GROUP}")
+                        "𝐀𝐥𝐢𝐚𝐧𝐬𝐢 𝐌𝐢𝐦𝐢𝐤 𝐒𝐮𝐬𝐮", url=f"https://t.me/ms_aliansi")
                 ],[
                     InlineKeyboardButton(
-                        "🛠 Source Code 🛠", url=f"https://{SOURCE_CODE}")
+                        "🛠 𝐒𝐄𝐌𝐏𝐀𝐊-𝐌𝐔𝐒𝐈𝐂 🛠", url=f"https://github.com/mimiksusuprojects/SEMPAK-MUSIC.git")
                 ],[
                     InlineKeyboardButton(
-                        "🎁 Donate", url=f"https://t.me/signatureofthehero")
+                        "☠️OWNER☠️", url=f"https://t.me/signatureofthehero")
                 ]
             ]
         ),
@@ -100,8 +100,8 @@ def map(pos):
         url = f"https://t.me/{SUPPORT_GROUP}"
         button = [
             [InlineKeyboardButton("➕ Tambahkan saya ke Grup Anda ➕", url=f"https://t.me/{BOT_USERNAME}?startgroup=true")],
-            [InlineKeyboardButton(text = '💬 Channel Updates', url=f"https://t.me/{UPDATES_CHANNEL}"),
-             InlineKeyboardButton(text = '🔰 Group Support', url=f"https://t.me/{SUPPORT_GROUP}")],
+            [InlineKeyboardButton(text = '𝐌𝐬 𝐒𝐭𝐨𝐫𝐲", url=f"https://t.me/msstory_ch")], 
+             InlineKeyboardButton(text = '𝐀𝐥𝐢𝐚𝐧𝐬𝐢 𝐌𝐢𝐦𝐢𝐤 𝐒𝐮𝐬𝐮", url=f"https://t.me/ms_aliansi") ],
             [InlineKeyboardButton(text = '🛠 Source Code 🛠', url=f"https://{SOURCE_CODE}")],
             [InlineKeyboardButton(text = '«', callback_data = f"help+{pos-1}")]
         ]
@@ -169,10 +169,10 @@ async def reload(client: Client, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "Group Support", url=f"https://t.me/GeezSupportGroup"
+                        "Joined", url=f"https://t.me/ms_aliansi"
                     ),
                     InlineKeyboardButton(
-                        "Created By", url=f"https://t.me/VckyouuBitch"
+                        "Owner", url=f"https://t.me/Signatureofthehero"
                     )
                 ]
             ]
