@@ -64,7 +64,7 @@ def cb_admin_check(func: Callable) -> Callable:
         if cb.from_user.id in admemes:
             return await func(client, cb)
         else:
-            await cb.answer("Kamu tidak diizinkan!", show_alert=True)
+            await cb.answer("Gausah nge-play, lu siape kontol!!", show_alert=True)
             return
 
     return decorator
@@ -185,7 +185,7 @@ def r_ply(type_):
             [
                 InlineKeyboardButton("📖 Playlist", "playlist"),
             ],
-            [InlineKeyboardButton("🗑 Close", "cls")],
+            [InlineKeyboardButton("☠︎︎ᴄʟᴏsᴇ☠︎︎", "cls")],
         ]
     )
     return mar
@@ -207,7 +207,7 @@ async def ee(client, message):
 @authorized_users_only
 async def settings(client, message):
     if message.chat.id in DISABLED_GROUPS:
-        await message.reply("**Music Player dimatikan**")
+        await message.reply("**Gua matiin lagunya ya tolol...**")
         return    
     playing = None
     chat_id = get_chat_id(message.chat)
